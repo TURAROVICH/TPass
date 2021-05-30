@@ -60,6 +60,8 @@ color: #576D81;
     border-radius: 15px;
     background-position:center left ;
     background-color: #ebeeee;
+    position: relative;
+    margin-top: 100px;
 }
 .phone{
     height: 600px;
@@ -69,7 +71,7 @@ color: #576D81;
     background-position: center,center;
     background-size: cover,auto;
     position: absolute;
-    top:880px;
+    top:-20px;
     border-radius:50px;
 }
 .crisps{

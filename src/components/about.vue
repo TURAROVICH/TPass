@@ -10,7 +10,7 @@
 
                     <div class="container">
                         <div class="description">
-Collect points on each store and redeem them to change for Teas.
+                      Collect points on each store and redeem them to change for Teas.
                         </div>
                     </div>
                     </div>
@@ -25,7 +25,7 @@ Collect points on each store and redeem them to change for Teas.
 
                     <div class="container">
                         <div class="description">
-Collect points on each store and redeem them to change for Teas.
+                       Collect points on each store and redeem them to change for Teas.
                         </div>
                     </div>
                     </div>

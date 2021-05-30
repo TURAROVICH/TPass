@@ -1,3 +1,10 @@
+
+
+
+
+
+
+
 <template>
     <div class="main">
         <div class="container">
@@ -16,6 +23,16 @@
         </div>
     </div>
 </template>
+
+
+
+
+
+
+
+
+
+
 
 <style scoped>
 .btn{
@@ -80,12 +97,6 @@ color: #0F2336;
     margin:22px 5px 0px 0px
 }
 @media screen and (max-width:994px) {
-    .support{
-        width: 500px;
-    }
-    .logo{
-    width: 100px;
-
-    }
+   
 }
 </style>

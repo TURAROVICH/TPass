@@ -79,10 +79,13 @@ color: #00CCCC;
 li{
     list-style: none;
 }
+.img{
+    position: relative;
+}
 #abs{
     position: absolute;
     right: 0px;
-    top: 3490px;
+    top: 50px;
 }
 .helper{
     display: flex;

@@ -50,23 +50,21 @@ Send gifts to your friends and family, and pick up for your coworkers when they 
     width: 105px;
     height: 105px;
     border-radius: 50%;
-   background: linear-gradient(160.47deg, rgba(0, 201, 201, 0.147) 15.15%, rgba(0, 201, 201, 0.699) 93.19%);
-     display: flex;
-     justify-content: center;
-     align-items: center;
+    background: linear-gradient(160.47deg, rgba(0, 201, 201, 0.147) 15.15%, rgba(0, 201, 201, 0.699) 93.19%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .title{
     font-family: Roboto;
-font-style: normal;
-font-weight: bold;
-font-size: 25px;
-line-height: 32px;
-/* identical to box height, or 130% */
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 32px;
+    letter-spacing: 0.2px;
 
-letter-spacing: 0.2px;
-
-color: #0F2336;
-width: 296px;
+    color: #0F2336;
+    width: 296px;
 }
 .description{
     font-family: Roboto;
